@@ -1,0 +1,1 @@
+# Natural-Language-Inference-LR-model-for-Textual-Entailment
